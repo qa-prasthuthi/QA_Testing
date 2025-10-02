@@ -8,6 +8,7 @@ This repository contains test suites, automation scripts, and QA documentation f
 
 ## Features
 
+
 - Automated test scripts
 - Manual test case documentation
 - Bug tracking and reporting
